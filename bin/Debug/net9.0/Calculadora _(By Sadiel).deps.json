@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Calculadora _(By Sadiel)/1.0.0": {
+        "runtime": {
+          "Calculadora _(By Sadiel).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculadora _(By Sadiel)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
