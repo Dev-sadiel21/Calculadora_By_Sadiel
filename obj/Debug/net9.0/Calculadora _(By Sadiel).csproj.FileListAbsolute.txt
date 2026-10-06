@@ -12,3 +12,18 @@ C:\Users\sadie\OneDrive\Escritorio\P1\Calculadora _(By Sadiel)\Calculadora _(By 
 C:\Users\sadie\OneDrive\Escritorio\P1\Calculadora _(By Sadiel)\Calculadora _(By Sadiel)\obj\Debug\net9.0\Calculadora _(By Sadiel).pdb
 C:\Users\sadie\OneDrive\Escritorio\P1\Calculadora _(By Sadiel)\Calculadora _(By Sadiel)\obj\Debug\net9.0\Calculadora _(By Sadiel).genruntimeconfig.cache
 C:\Users\sadie\OneDrive\Escritorio\P1\Calculadora _(By Sadiel)\Calculadora _(By Sadiel)\obj\Debug\net9.0\ref\Calculadora _(By Sadiel).dll
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\bin\Debug\net9.0\Calculadora _(By Sadiel).exe
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\bin\Debug\net9.0\Calculadora _(By Sadiel).deps.json
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\bin\Debug\net9.0\Calculadora _(By Sadiel).runtimeconfig.json
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\bin\Debug\net9.0\Calculadora _(By Sadiel).dll
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\bin\Debug\net9.0\Calculadora _(By Sadiel).pdb
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).AssemblyInfoInputs.cache
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).AssemblyInfo.cs
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).csproj.CoreCompileInputs.cache
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).sourcelink.json
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).dll
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\refint\Calculadora _(By Sadiel).dll
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).pdb
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\Calculadora _(By Sadiel).genruntimeconfig.cache
+C:\Users\sadie\OneDrive\Documentos\GitHub\Calculadora_By_Sadiel\obj\Debug\net9.0\ref\Calculadora _(By Sadiel).dll

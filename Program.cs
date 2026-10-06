@@ -157,19 +157,19 @@ do
                         Console.Write("Coloque la calificacion final del estudiante: ");
                         studenGrade = decimal.Parse(Console.ReadLine());
 
-                        if (studenGrade >= 70 &&  studenGrade <= 100)
+                        if (studenGrade < 0 || studenGrade > 100)
                         {
-                            Console.WriteLine("El estudiante fue aprobado \n");
+                            Console.WriteLine("Error: La nota debe estar entre 0 y 100");
 
                         }
-                        else if (studenGrade >= 0 && studenGrade <= 70)
+                        else if (studenGrade >= 70)
                         {
-                            Console.WriteLine("El estudiante fue  reprobado \n");
+                            Console.WriteLine("El estudiante fue aprobado \n");
                         }
                         else
                         {
 
-                            Console.WriteLine("La calificacion no puede ser mayor a 100");
+                            Console.WriteLine("El estudiante fue reprobado");
 
                         }
 
