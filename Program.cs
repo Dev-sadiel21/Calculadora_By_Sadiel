@@ -160,7 +160,7 @@ do
 
                         if (studenGrade < 0 || studenGrade > 100)
                         {
-                            Console.WriteLine("Error: La nota debe estar entre 0 y 100");
+                            Console.WriteLine("Error: La calificacion debe estar entre 0 y 100");
 
                         }
                         else if (studenGrade >= 70)
@@ -170,7 +170,7 @@ do
                         else
                         {
 
-                            Console.WriteLine("El estudiante fue reprobado");
+                            Console.WriteLine("El estudiante fue reprobado \n");
 
                         }
 
