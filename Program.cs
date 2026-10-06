@@ -1,5 +1,6 @@
 ﻿
 
+
 decimal[] typeNumbers = new decimal[2];
 decimal result = 0;
 decimal studenGrade = 0;
